@@ -29,7 +29,7 @@ Clone the repository and open index.html in your browser:
 sh
 Copy
 Edit
-git clone https://github.com/yourusername/Codsoft_Calculator.git  
+git clone https://github.com/teja82/Codsoft_Calculator.git  
 cd Codsoft_Calculator  
 open index.html  
 
