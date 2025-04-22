@@ -1,37 +1,39 @@
-Codsoft Calculator
+# 🧮**Codsoft Calculator**
 A simple and responsive calculator built using HTML, CSS, and JavaScript. This web-based calculator provides an intuitive user interface for performing basic arithmetic operations.
 
-Features
-✅ Perform addition, subtraction, multiplication, and division
-✅ Supports percentage calculations
-✅ Clear and delete functions for easy corrections
-✅ Responsive design for desktop and mobile devices
-✅ Stylish UI with smooth button interactions
+Features<br>
+✅ Perform addition, subtraction, multiplication, and division<br>
+✅ Supports percentage calculations<br>
+✅ Clear and delete functions for easy corrections<br>
+✅ Responsive design for desktop and mobile devices<br>
+✅ Stylish UI with smooth button interactions<br>
 
-Technologies Used
-HTML for structuring the calculator
+## 🚀 Technologies Used
 
-CSS for styling and layout
+- **HTML** – For structuring the calculator interface
+- **CSS** – For elegant styling and layout responsiveness
+- **JavaScript** – For implementing core functionality and real-time calculations
 
-JavaScript for functionality and calculations
+---
 
-How to Use
-Click on the number and operator buttons to enter expressions
+## 💡 How to Use
 
-Use the C button to clear the screen and DEL to remove the last entry
+- Click number and operator buttons to input an expression
+- Use `C` to clear the display entirely
+- Use `DEL` to delete the last character
+- Click `=` to instantly evaluate the expression
 
-Click = to compute the result instantly
+---
 
+## 🛠️ Installation
 
-Installation
-Clone the repository and open index.html in your browser:
+Clone the repository and open it in your browser:
 
-sh
-Copy
-Edit
+```sh
 git clone https://github.com/teja82/Codsoft_Calculator.git  
 cd Codsoft_Calculator  
-open index.html  
+open index.html
+```
 
-License
+## 📜 License
 This project is open-source under the MIT License.
